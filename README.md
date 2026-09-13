@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=squirrelflightt&label=bows&labelColor=%23bc4346&countColor=%23cbc5a8&style=flat-square">
 <p align="center">
-<img src="https:"https://adriansblinkiecollection.neocities.org/c59.gif">
+<img src="https://file.garden/aOWSpRjTKyHZp9BV/c59.gif">
 
 <p align="center">
   <sub>$\color{#BDAC27}{Raphael}$</sub> 
