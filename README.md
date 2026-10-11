@@ -18,4 +18,4 @@
  <a href="https://github.com/disorderlyfashion">main account</a>
 
 <p align="center">
- <img width="370" height="370" alt="image" src="https://github.com/user-attachments/assets/7f2b2091-de03-4692-949c-d6feed979c46" />
+ <img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/e0d0492f-ba87-4cf9-80d5-6f5289e52383" />
