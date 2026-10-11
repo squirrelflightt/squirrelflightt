@@ -18,4 +18,4 @@
  <a href="https://github.com/disorderlyfashion">main account</a>
 
 <p align="center">
- <img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/e0d0492f-ba87-4cf9-80d5-6f5289e52383" />
+ <img src="https://github.com/squirrelflightt/squirrelflightt/blob/main/assets/gay.png" width="30%">
