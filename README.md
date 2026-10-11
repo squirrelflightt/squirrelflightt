@@ -16,3 +16,6 @@
 <p align="center">
  <a href="https://disorderlyfashion.atabook.org/">atabook</a>
  <a href="https://github.com/disorderlyfashion">main account</a>
+
+<p align="center">
+ <img width="370" height="370" alt="image" src="https://github.com/user-attachments/assets/7f2b2091-de03-4692-949c-d6feed979c46" />
